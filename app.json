@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Daneil-k/DQ-FILTER-2-DB",
-    "repository": "https://github.com/Daneil-k/DQ-FILTER-2-DB",
+    "website": "https://github.com/badmunda011/Moviee",
+    "repository": "https://github.com/badmunda011/Moviee",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
