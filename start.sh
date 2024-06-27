@@ -1,10 +1,10 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/badmunda011/Moviee.git /DQTheFileDonorBot
+  git clone https://github.com/badmunda011/Moviee.git /Pbxmoive_Bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /DQTheFileDonorBot
+  git clone $UPSTREAM_REPO /Pbxmoive_Bot
 fi
 cd /DQTheFileDonorBot
 pip3 install -U -r requirements.txt
