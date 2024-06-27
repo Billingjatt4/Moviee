@@ -6,18 +6,16 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/thereisaruleinthisjungle_bot'>ROLEX</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/ll_BAD_MUNDA_ll'>♡³_🫧𝆺꯭𝅥˶֟፝͟͝β𝝰꯭‌𝞉 ꯭𝝡꯭𝞄꯭𝞌𝞉꯭𝝺꯭𝆺꯭𝅥🍷┼❤️༆</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://heroku.com//'>Hᴇʀᴏᴋᴜ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: ᴠ𝟻 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. ɪᴛ ɪs ᴇᴅɪᴛᴇᴅ ᴀɴᴅ ᴍᴏᴅɪғɪᴇᴅ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/thereisaruleinthisjungle_bot">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/ll_BAD_MUNDA_ll">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/thereisaruleinthisjungle_bot">ROLEX</a></b>"""
+- <a href="https://t.me/ll_BAD_MUNDA_ll">♡³_🫧𝆺꯭𝅥˶֟፝͟͝β𝝰꯭‌𝞉 ꯭𝝡꯭𝞄꯭𝞌𝞉꯭𝝺꯭𝆺꯭𝅥🍷┼❤️༆</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -159,9 +157,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ROLEX
-• ᴜꜱᴇʀɴᴀᴍᴇ : @thereisaruleinthisjungle_bot
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/thereisaruleinthisjungle_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ♡³_🫧𝆺꯭𝅥˶֟፝͟͝β𝝰꯭‌𝞉 ꯭𝝡꯭𝞄꯭𝞌𝞉꯭𝝺꯭𝆺꯭𝅥🍷┼❤️༆
+• ᴜꜱᴇʀɴᴀᴍᴇ : @ll_BAD_MUNDA_ll
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/ll_BAD_MUNDA_ll'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -209,9 +207,9 @@ Nᴀᴍᴇ - {}"""
 
 =========== • ✠ • ===========
 
-▫️ Cʜᴀɴɴᴇʟ : @atomicitic 
-▫️ Mᴀɪɴ ɢʀᴏᴜᴘ : @movies_nowxx
-▫️ Bᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ : <a href="https://t.me/+vJddM0EMvII5ODNl">Tᴏᴜᴄʜ</a>
+▫️ Cʜᴀɴɴᴇʟ : @,PBX_PERMOT
+▫️ Mᴀɪɴ ɢʀᴏᴜᴘ : @PBX_CHAT
+▫️ Cʜᴀᴛɪɴɢ ɢʀᴏᴜᴘ : <a href="https://t.me/PUNJABI_CHATTING_HUB">Tᴏᴜᴄʜ</a>
 
 🎗️ ʝσιи 🎗️ ѕнαяє 🎗️ ѕυρρσят 🎗️
 =========== • ✠ • ===========</b>"""
@@ -261,3 +259,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 █████╗░░██║██║░░░░░█████╗░░█████╗██║░░██║██║░░██║██╔██╗██║██║░░██║██████╔╝
 ██╔══╝░░██║██║░░░░░██╔══╝░░╚════╝██║░░██║██║░░██║██║╚████║██║░░██║██╔══██╗
 ██║░░░░░██║███████╗███████╗░░░░░░██████╔╝╚█████╔╝██║░╚███║╚█████╔╝██║░░██║"""
+    
