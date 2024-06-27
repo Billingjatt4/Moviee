@@ -41,16 +41,16 @@ AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 ## FSub
 # Set to False inside the bracket if you don't want to use Request Channel else set it to Channel ID
-auth_channel = environ.get('AUTH_CHANNEL', '-1002137058760')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002093247039')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
-REQ_CHANNEL = environ.get("REQ_CHANNEL", '-1002137058760')
+REQ_CHANNEL = environ.get("REQ_CHANNEL", '-1002093247039')
 REQ_CHANNEL = (int(REQ_CHANNEL) if REQ_CHANNEL and id_pattern.search(REQ_CHANNEL) else False) if REQ_CHANNEL is not None else None
 DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://ushimotsukiroronoazoro:homiebucherdb2@homielanderdb2.i0o2m61.mongodb.net/?retryWrites=true&w=majority&appName=Homielanderdb2")
 JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI2)
 
 support_chat_id = environ.get('SUPPORT_CHAT_ID')
-reqst_channel = environ.get('-1002137058760')
-REQST_CHANNEL = int(-1002137058760) if reqst_channel and id_pattern.search(reqst_channel) else None
+reqst_channel = environ.get('-1002093247039')
+REQST_CHANNEL = int(-1002093247039) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
@@ -89,7 +89,7 @@ LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False")
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002002005430')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002093247039')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "True")), True)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), False)
