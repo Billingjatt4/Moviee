@@ -55,11 +55,10 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
 # MongoDB information
-SECONDDB_URI = environ.get('SECONDDB_URI', "etq3ozy.mongodb.net/?retryWrites=true&w=majority&appName=Panda2")
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Movie:Movie1@movie.xaeqmqv.mongodb.net/?retryWrites=true&w=majority&appName=Movie")
+SECONDDB_URI = environ.get('SECONDDB_URI', "mongodb+srv://ushimotsukiroronoazoro:RNStpsr1RZypNoGk@cluster0.m4cuuwn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ushimotsukiroronoazoro:homiebucherlander1@homiecluster1.hfqh6zb.mongodb.net/?retryWrites=true&w=majority&appName=Homiecluster1")
 DATABASE_NAME = environ.get('DATABASE_NAME', "ushimotsukiroronoazoro")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
-
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'False')), False)
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/c/1845700490/3")
