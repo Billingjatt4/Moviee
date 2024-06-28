@@ -59,6 +59,7 @@ SECONDDB_URI = environ.get('SECONDDB_URI', "mongodb+srv://ushimotsukiroronoazoro
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ushimotsukiroronoazoro:homiebucherlander1@homiecluster1.hfqh6zb.mongodb.net/?retryWrites=true&w=majority&appName=Homiecluster1")
 DATABASE_NAME = environ.get('DATABASE_NAME', "ushimotsukiroronoazoro")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'False')), False)
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', "https://t.me/c/1845700490/3")
